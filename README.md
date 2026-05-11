@@ -10,7 +10,7 @@ I am a senior Computer Engineering student at Sakarya University, set to graduat
 
 ### 📫 Connect with Me
 * [**LinkedIn**](https://www.linkedin.com/in/semih-öztürk-57060b2b6/) - Let's build a professional network.
-* [**Email**](semihozturq@gmail.com) - Reach out for collaborations or technical discussions.
+* semihozturq@gmail.com - Reach out for collaborations or technical discussions.
 
 
 ---
